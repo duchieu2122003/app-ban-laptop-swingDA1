@@ -1,4 +1,0 @@
-xong crud SanPham, DongSP, MauSac, ChucVu, chitietsanpham,CuaHang, nhan vien,Khachhang,GioHang
-
-doing:giohangct
-not complete: HoaDonCT,HoaDon
